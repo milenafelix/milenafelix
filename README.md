@@ -18,5 +18,3 @@ Oi! Eu sou a Milena...
   ##
   
 </div>
-
-![Snake animation](https://github.com/milenafelix/milenafelix/blob/output/github-contribution-grid-snake.svg)
