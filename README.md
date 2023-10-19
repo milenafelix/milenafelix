@@ -12,7 +12,7 @@ Este é o lugar onde a mágica acontece. Este repositório é o centro de todas 
 - 📝 **Artigos**: De vez em quando, escrevo artigos interessantes sobre desenvolvimento, aprendizado de máquina, e outros tópicos que me fascinam.
 
 ## Como começar
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1. Clone este repositório: `git clone https://github.com/milenafelix?tab=repositories`
 2. Explore os diretórios e escolha um projeto que lhe interesse.
 3. Siga as instruções de instalação e execução do projeto nos respectivos READMEs.
 
@@ -23,7 +23,7 @@ Se você gostou de algo que encontrou aqui ou deseja contribuir, adoraria recebe
 Este repositório é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ## Mantenha contato
-Você pode me encontrar em várias redes sociais ou no meu site pessoal em [seu-site.com](https://seu-site.com). Vou adorar ouvir de você!
+Você pode me encontrar em várias redes sociais como o [Instagram](https://instagram.com/milena_dev). Vou adorar ouvir de você!
 
 <div align="center">
   <img src="https://github.com/seu-usuario/seu-repositorio/raw/master/assets/thank-you.gif" alt="Obrigado por visitar!">
