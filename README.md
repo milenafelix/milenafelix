@@ -4,11 +4,11 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio)
 ![GitHub contributors](https://img.shields.io/github/contributors/seu-usuario/seu-repositorio)
 
-Este é o lugar onde a mágica acontece. Este repositório é o centro de todas as minhas aventuras em programação. Aqui você encontrará uma mistura de projetos incríveis, ideias malucas e muito código.
+Este é o lugar onde a mágica acontece. Este repositório é o centro de todas as minhas aventuras em programação. Aqui você encontrará uma mistura de projetos, ideias e muito código.
 
 ## O que você encontrará aqui
 - 📁 **Projetos**: Uma coleção de projetos emocionantes que vão desde aplicativos web, scripts úteis, jogos e muito mais!
-- 🚀 **Tecnologias**: Explore as tecnologias que estou usando e aprendendo. De JavaScript a Python, de React a Vue, estou sempre explorando o novo e o empolgante.
+- 🚀 **Tecnologias**: Explore as tecnologias que estou usando e aprendendo. De JavaScript a Python, de React a Vue, estou sempre explorando algo novo.
 - 📝 **Artigos**: De vez em quando, escrevo artigos interessantes sobre desenvolvimento, aprendizado de máquina, e outros tópicos que me fascinam.
 
 ## Como começar
