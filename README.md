@@ -13,10 +13,6 @@
 
 # Bem-vindo ao Meu Repositório! 🚀
 
-![GitHub](https://img.shields.io/github/license/seu-usuario/seu-repositorio)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio)
-![GitHub contributors](https://img.shields.io/github/contributors/seu-usuario/seu-repositorio)
-
 Este é o lugar onde a mágica acontece. Este repositório é o centro de todas as minhas aventuras em programação. Aqui você encontrará uma mistura de projetos, ideias e muito código.
 
 ## O que você encontrará aqui
