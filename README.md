@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://github.com/seu-usuario/seu-repositorio/raw/master/assets/logo.png" alt="Seu Repositório">
-</div>
-
-# Bem-vindo ao Seu Repositório Incrível! 🚀
+# Bem-vindo ao Meu Repositório! 🚀
 
 ![GitHub](https://img.shields.io/github/license/seu-usuario/seu-repositorio)
 ![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio)
