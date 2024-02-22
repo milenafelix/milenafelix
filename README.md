@@ -33,9 +33,6 @@ Se você gostou de algo que encontrou aqui ou deseja contribuir, adoraria recebe
 ## Licença
 Este repositório é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
-## Mantenha contato
-Você pode me encontrar em várias redes sociais como o [Instagram](https://instagram.com/milena_dev). Vou adorar ouvir de você!
-
 <div align="center">
   <img src="https://github.com/seu-usuario/seu-repositorio/raw/master/assets/thank-you.gif" alt="Obrigado por visitar!">
 </div>
