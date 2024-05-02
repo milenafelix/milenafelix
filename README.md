@@ -1,6 +1,6 @@
 <h1>Oi! Eu sou a Milena...</h1>
 
-- Atualmente trabalhando com **Java e Fortify**
+- Atualmente trabalhando com **Analise de Dados**
 - Estudando **SQL**
 
 <div style="display: inline_block"><br>
