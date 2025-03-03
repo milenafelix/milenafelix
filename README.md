@@ -1,7 +1,7 @@
 <h1>Oi! Eu sou a Milena...</h1>
 
-- Atualmente trabalhando com **Analise de Dados**
-- Estudando **SQL**
+- Atualmente trabalhando com **Desenvolvimento de Software**
+- Estudando **VUE.js**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
