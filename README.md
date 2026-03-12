@@ -1,7 +1,6 @@
 <h1>Oi! Eu sou a Milena...</h1>
 
-- Atualmente trabalhando com **Desenvolvimento de Software**
-- Estudando **VUE.js**
+Desenvolvedora de Software com foco atual em Vue.js, Java e Git. Este repositório centraliza projetos, estudos e documentações técnicas, abrangendo desde o desenvolvimento web até lógica de programação e machine learning.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,14 +12,12 @@
 
 </div>
 
-# Bem-vindo ao Meu Repositório! 🚀
+# Conteúdo do Repositório
+Cada diretório contém um arquivo README específico com guias de instalação.
 
-Este é o lugar onde a mágica acontece. Este repositório é o centro de todas as minhas aventuras em programação. Aqui você encontrará uma mistura de projetos, ideias e muito código.
-
-## O que você encontrará aqui
-- 📁 **Projetos**: Uma coleção de projetos emocionantes que vão desde aplicativos web, scripts úteis, jogos e muito mais!
-- 🚀 **Tecnologias**: Explore as tecnologias que estou usando e aprendendo. De JavaScript a Python, de React a Vue, estou sempre explorando algo novo.
-- 📝 **Artigos**: De vez em quando, escrevo artigos interessantes sobre desenvolvimento, aprendizado de máquina, e outros tópicos que me fascinam.
+## O repositório está organizado em pilares fundamentais:
+- 📁 **Projetos**: Coleção de aplicações web, scripts de automação e jogos.
+- 📝 **Artigos**: Textos técnicos sobre aprendizado de máquina e desafios de desenvolvimento.
 
 ## Como começar
 1. Clone este repositório: `git clone https://github.com/milenafelix?tab=repositories`
@@ -28,8 +25,12 @@ Este é o lugar onde a mágica acontece. Este repositório é o centro de todas 
 3. Siga as instruções de instalação e execução do projeto nos respectivos READMEs.
 
 ## Contribuição
-Se você gostou de algo que encontrou aqui ou deseja contribuir, adoraria receber sua ajuda! Sinta-se à vontade para abrir problemas, enviar solicitações de pull ou apenas compartilhar suas ideias.
+Este é um espaço aberto para troca de ideias. Sinta-se à vontade para:
 
+- Abrir Issues para relatar problemas ou sugestões.
+- Enviar Pull Requests com melhorias de código.
+- Compartilhar insights sobre as tecnologias listadas.
+  
 ## Licença
 Este repositório é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
