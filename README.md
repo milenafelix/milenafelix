@@ -1,9 +1,9 @@
 <h1 align="center">
-  Oi! Eu sou a Milena... 👋
+  Oi! Eu sou a Milena... E isso nem é o mais legal sobre mim!
 </h1>
 
 <h3 align="center">
-  Full Stack Developer | Tech Writer | Data Science Enthusiast
+  Full Stack Developer | Estudante de Ciência dos Dados
 </h3>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 ## 👩🏻‍💻 Sobre Mim
 
-Sou uma **Desenvolvedora de Software (Full Stack)** apaixonada por construir aplicações estruturadas e escaláveis. Minha trajetória une a engenharia de software com a comunicação, o que me ajuda a traduzir problemas complexos em códigos limpos e documentações acessíveis.
+Sou uma **Desenvolvedora de Software (Full Stack)** gosto de construir aplicações estruturadas e escaláveis. Minha trajetória une a engenharia de software com a comunicação, o que me ajuda a traduzir problemas complexos em códigos limpos e documentações acessíveis.
 
 - 🔭 Atualmente com foco no desenvolvimento e arquitetura com **Vue.js** e **Java**.
 - 🎓 Expandindo meus horizontes acadêmicos nos campos de **Data Science** e **Mecatrônica**.
-- 🏆 **Certificações:** Possuo a certificação GitHub Foundations (GH-900).
+- 🏆 **Certificações:** Possuo a certificação AZ-900, AI-900, SC-900 E DP-900.
 - 📝 **Criação de Conteúdo:** Utilizo minha experiência com jornalismo e pesquisa para escrever artigos sobre aprendizado de máquina e desafios da área tech.
-- 💡 **Fun Fact:** Quando não estou programando ou organizando rotinas no Notion, provavelmente estou lendo um bom thriller psicológico (fã de Agatha Christie por aqui!) ou cuidando do meu jardim.
+- 💡 **Fun Fact:** Quando não estou programando ou organizando rotinas no Notion, provavelmente estou lendo um bom thriller psicológico (Freida consegue escrever mais rápido do que eu consigo ler) ou cuidando dos meus gatos.
 
 ---
 
@@ -59,15 +59,6 @@ Este repositório centraliza meus projetos, estudos e documentações técnicas.
 
 ---
 
-## 📊 Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milenafelix&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub da Milena" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milenafelix&theme=radical&hide_border=true&background=0D1117" alt="Streaks do GitHub da Milena" width="48%" />
-</p>
-
----
-
 ## 🤝 Contribuição e Contato
 
 Este é um espaço aberto para troca de ideias e conhecimento! Sinta-se à vontade para:
@@ -76,10 +67,10 @@ Este é um espaço aberto para troca de ideias e conhecimento! Sinta-se à vonta
 - 💬 Compartilhar insights sobre as tecnologias listadas.
 
 <div align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:milenafelix.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="https://linkedin.com/in/milenafelix-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
